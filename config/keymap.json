@@ -10,11 +10,11 @@
   ],
   "layers": [
     [
-                "&none",        "&kp N1",    "&kp N2",    "&kp N3",    "&kp N4",    "&kp N5",               "&mo 2",      "&mo 3",     "&kp N6",        "&kp N7",  "&kp N8",           "&kp N9",            "&kp N0",         "&none",
-              "&kp TAB",         "&kp Q",     "&kp W",     "&kp F",     "&kp P",     "&kp B",               "&none",      "&none",      "&kp J",         "&kp L",   "&kp U",            "&kp Y",          "&kp SEMI", "&kp BACKSLASH",
-              "&kp ESC",         "&kp A",     "&kp R",     "&kp S",     "&kp T",     "&kp G",               "&none",      "&none",      "&none",                                        "&none",             "&none",         "&none",          "&kp M",             "&kp N",     "&kp E",   "&kp I",     "&kp O", "&kp SINGLE_QUOTE",
-       "&kp LEFT_SHIFT",         "&kp X",     "&kp C",     "&kp D",     "&kp V",     "&kp Z",               "&none",      "&none",      "&none",         "&none",   "&none",            "&none",             "&none",         "&none",          "&kp K",             "&kp H", "&kp COMMA", "&kp DOT", "&kp SLASH",  "&kp RIGHT_SHIFT",
-            "&kp LCTRL", "&kp LEFT_META", "&kp GRAVE", "&kp MINUS", "&kp EQUAL", "&kp ENTER",           "&kp SPACE", "&kp LSHIFT", "&kp RSHIFT", "&kp BACKSPACE", "&kp DEL", "&kp LEFT_BRACKET", "&kp RIGHT_BRACKET",         "&none", "&kp RIGHT_META", "&kp RIGHT_CONTROL"
+                "&none",        "&kp N1",    "&kp N2",    "&kp N3",    "&kp N4",    "&kp N5",                     "&mo 2",        "&mo 3",     "&kp N6",        "&kp N7",  "&kp N8",           "&kp N9",            "&kp N0",          "&none",
+              "&kp TAB",         "&kp Q",     "&kp W",     "&kp F",     "&kp P",     "&kp B",            "&kp LEFT_ARROW", "&kp UP_ARROW",      "&kp J",         "&kp L",   "&kp U",            "&kp Y",          "&kp SEMI",  "&kp BACKSLASH",
+              "&kp ESC",         "&kp A",     "&kp R",     "&kp S",     "&kp T",     "&kp G",           "&kp RIGHT_ARROW",        "&none",      "&none",                                        "&none",             "&none", "&kp DOWN_ARROW",          "&kp M",             "&kp N",     "&kp E",   "&kp I",     "&kp O", "&kp SINGLE_QUOTE",
+       "&kp LEFT_SHIFT",         "&kp X",     "&kp C",     "&kp D",     "&kp V",     "&kp Z",                     "&none",        "&none",      "&none",         "&none",   "&none",            "&none",             "&none",          "&none",          "&kp K",             "&kp H", "&kp COMMA", "&kp DOT", "&kp SLASH",  "&kp RIGHT_SHIFT",
+            "&kp LCTRL", "&kp LEFT_META", "&kp GRAVE", "&kp MINUS", "&kp EQUAL", "&kp ENTER",                 "&kp SPACE",   "&kp LSHIFT", "&kp RSHIFT", "&kp BACKSPACE", "&kp DEL", "&kp LEFT_BRACKET", "&kp RIGHT_BRACKET",          "&none", "&kp RIGHT_META", "&kp RIGHT_CONTROL"
     ], [
        "&trans",            "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",  "&mo 3", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans",            "&trans", "&trans", "&trans", "&trans", "&trans",            "&none", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
